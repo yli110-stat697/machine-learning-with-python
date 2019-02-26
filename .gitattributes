@@ -1,2 +1,6 @@
 * linguist-vendored
+<<<<<<< HEAD
 *.py linguist-vendored=false
+=======
+*.py linguist-vendored=false
+>>>>>>> 3d11efb702cddda42b914bcc1d863f79f46c2b5d
