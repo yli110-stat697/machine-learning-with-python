@@ -1,2 +1,2 @@
 * linguist-vendored
-*.sas linguist-vendored=false
+*.python3 linguist-vendored=false
